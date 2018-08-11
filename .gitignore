@@ -10,6 +10,5 @@
 *.db
 *.user
 *.opendb
-bin/
 build/
 .vs/
